@@ -1,5 +1,3 @@
-# devsecops-app
-Une micro-application web démontrant un pipeline DevSecOps avec GitHub, GitHub Actions, Docker, et Ansible.
-- **Objectif** : Mettre en œuvre les bonnes pratiques DevSecOps.
-- **Technologies** : [Précisez votre choix : Node.js, Python Flask, etc.], Docker, Ansible, GitHub Actions.
-- **Fonctionnalités** : Une To-Do list simple avec ajout/suppression de tâches.
+# DevSecOps App
+C’est une application simple pour gérer une liste de tâches (To-Do List).
+Je vais utiliser Python, Docker, GitHub Actions et Ansible.
